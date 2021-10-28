@@ -1,0 +1,40 @@
+2021-10-04T01:55:04+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 7
+2021-10-04T01:58:09+00:00 NOTICE member.sync :: reginadood@yandex.ru has signed up to a lot of lists very recently; we're not allowing more signups for now
+2021-10-04T06:37:51+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4293
+2021-10-04T06:38:04+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4293
+2021-10-04T06:38:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4291
+2021-10-04T06:38:18+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4291
+2021-10-04T06:38:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4290
+2021-10-04T06:38:25+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4290
+2021-10-04T06:38:30+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4290
+2021-10-04T06:38:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4289
+2021-10-04T06:38:44+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4290
+2021-10-04T06:38:44+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4289
+2021-10-04T06:38:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4288
+2021-10-04T06:38:59+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4286
+2021-10-04T06:39:04+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4288
+2021-10-04T06:39:05+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4286
+2021-10-04T06:39:08+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4287
+2021-10-04T06:39:18+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4287
+2021-10-04T06:51:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4253
+2021-10-04T06:52:34+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4253
+2021-10-04T06:52:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4253
+2021-10-04T06:52:41+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4253
+2021-10-04T08:51:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4235
+2021-10-04T08:52:01+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4234
+2021-10-04T08:52:27+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4235
+2021-10-04T08:52:27+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4234
+2021-10-04T11:50:26+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 8
+2021-10-04T11:50:30+00:00 NOTICE member.sync :: Subscribed Member shwapnosimi2007@gmail.com :: Array
+(
+    [status_if_new] => 1
+    [merge_fields] => Array
+        (
+        )
+
+)
+
+2021-10-04T12:51:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4650
+2021-10-04T12:51:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4649
+2021-10-04T12:51:51+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4650
+2021-10-04T12:52:25+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4649

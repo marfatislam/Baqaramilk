@@ -1,0 +1,38 @@
+2021-10-05T09:34:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4662
+2021-10-05T09:34:50+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4662
+2021-10-05T09:35:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4663
+2021-10-05T09:35:49+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4663
+2021-10-05T09:37:58+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 61482bbeae305
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 411d4637ed
+            [name] => Baqara Milk
+            [domain] => https://baqaramilk.com
+            [email_address] => dev.bpltd@gmail.com
+            [currency_code] => BDT
+            [money_format] => ৳ 
+            [primary_locale] => bn_BD
+            [timezone] => +06:00
+            [phone] => 01727609449
+            [address] => Array
+                (
+                    [address1] => House 8, Block B, Road 1-B, Nobodoy Housing, Mohammadpur Dhaka
+                    [city] => Dhaka
+                    [province] => BD-13
+                    [postal_code] => 1207
+                    [country] => BD
+                    [country_code] => BD
+                    [phone] => 01727609449
+                    [company] => Baqara Milk
+                )
+
+        )
+
+)
+
+2021-10-05T10:46:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4720
+2021-10-05T10:46:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #4720

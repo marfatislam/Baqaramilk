@@ -1,0 +1,13 @@
+2021-09-29T07:58:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4636
+2021-09-29T07:58:38+00:00 NOTICE debug :: Order ID 4636 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://baqaramilk.com/favicon.ico
+        )
+
+)
+
+2021-09-29T08:00:14+00:00 NOTICE validation.bad_email :: Order #BM-001125 has an invalid email address. Skipping!

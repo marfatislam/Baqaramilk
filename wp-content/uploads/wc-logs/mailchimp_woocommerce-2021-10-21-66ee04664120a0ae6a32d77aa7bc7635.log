@@ -1,0 +1,11 @@
+2021-10-21T00:51:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 14
+2021-10-21T00:52:06+00:00 NOTICE member.sync :: sofiyasamylkin1987911be1+2e@bk.ru has signed up to a lot of lists very recently; we're not allowing more signups for now
+2021-10-21T03:48:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4753
+2021-10-21T03:48:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #4753
+2021-10-21T03:49:03+00:00 NOTICE product.delete_fail :: Unable to deleted product 4754
+2021-10-21T03:50:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4228
+2021-10-21T03:51:44+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4228
+2021-10-21T05:32:09+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4253
+2021-10-21T05:32:17+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4253
+2021-10-21T12:30:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4659
+2021-10-21T12:30:45+00:00 NOTICE product_submit.success :: updateStoreProduct :: #4659

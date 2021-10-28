@@ -1,0 +1,19 @@
+2021-10-07T09:51:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 291c4744e292e1209c7c35a4b36caa30
+2021-10-07T09:51:46+00:00 NOTICE abandoned_cart.success :: email: info.rahad@gmail.com :: checkout_url: https://baqaramilk.com/checkout/?mc_cart_id=291c4744e292e1209c7c35a4b36caa30
+2021-10-07T09:51:47+00:00 NOTICE cart.member.updated :: Updated info.rahad@gmail.com subscriber status to transactional and language to en
+2021-10-07T09:52:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id 291c4744e292e1209c7c35a4b36caa30
+2021-10-07T09:52:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4721
+2021-10-07T09:52:39+00:00 NOTICE debug :: Order ID 4721 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://baqaramilk.com/wp-admin/admin-ajax.php
+        )
+
+)
+
+2021-10-07T09:52:43+00:00 NOTICE abandoned_cart.success :: email: info.rahad@gmail.com :: checkout_url: https://baqaramilk.com/checkout/?mc_cart_id=291c4744e292e1209c7c35a4b36caa30
+2021-10-07T09:54:22+00:00 NOTICE order.member.updated :: Updated info.rahad@gmail.com subscriber status to subscribed and language to en
+2021-10-07T09:54:22+00:00 NOTICE order_submit.success :: addStoreOrder :: #BM-001126 :: email: info.rahad@gmail.com :: landing site https://baqaramilk.com/wp-admin/admin-ajax.php :: abandoned cart deleted [291c4744e292e1209c7c35a4b36caa30]

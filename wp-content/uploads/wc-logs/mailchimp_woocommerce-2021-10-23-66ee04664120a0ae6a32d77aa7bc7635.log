@@ -1,0 +1,13 @@
+2021-10-23T03:30:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 4727
+2021-10-23T03:30:49+00:00 NOTICE debug :: Order ID 4727 was processing and is now completed :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2021-10-23T03:32:39+00:00 NOTICE order.member.updated :: Updated kanijsultana@gmail.com subscriber status to transactional and language to 
+2021-10-23T03:32:39+00:00 NOTICE order_submit.success :: updateStoreOrder :: #BM-001127 :: email: kanijsultana@gmail.com
+2021-10-23T04:43:07+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4759
+2021-10-23T04:43:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #4759
+2021-10-23T04:45:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 4762
+2021-10-23T04:45:43+00:00 NOTICE product_submit.success :: addStoreProduct :: #4762
